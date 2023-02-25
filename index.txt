@@ -4,3 +4,4 @@ fotos
 comentarios
 contacto
 pie de pagina
+Ya se trabajo el incio de sesion por roles
